@@ -1,0 +1,14 @@
+
+G	java:S106/"+Replace this use of System.out by a logger.(»­İ¦8˜‘³¶Ã1
+L	java:S1064"+Replace this use of System.out by a logger.(Şªµıÿÿÿÿ8è»—Å1
+L	java:S1065"+Replace this use of System.out by a logger.(¾­¾Ìüÿÿÿÿ8Ÿ‘³¶Ã1
+:
+java:S21198"Save and re-use this "Random".(¼İÅf8ó»—Å1
+K
+java:S1905:")Remove this unnecessary cast to "double".(úì¾Õüÿÿÿÿ8ö»—Å1
+:
+java:S2119E"Save and re-use this "Random".(¼İÅf8ÿ»—Å1
+O
+java:S1128"2Remove this unused import 'com.zeni.model.Person'.(”œ§8À¡—Å1
+@
+java:S1128	"Remove this duplicated import.(ĞÆ–ùÿÿÿÿ8¾‘³¶Ã1
